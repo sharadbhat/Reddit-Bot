@@ -2,6 +2,8 @@
 
 A simple call and response Reddit bot. 
 
+Called with the phrase '!islinkdown <link>' 
+
 It searches all comments from all subreddits to search for use phrase '!islinkdown'. 
 If found, it checks the link provided along with the phrase to see if the website is up or not. 
 
